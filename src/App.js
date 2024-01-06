@@ -1,10 +1,10 @@
 
-import {Button} from 'react-bootstrap'
-import { BrowserRouter as Router, Route, Switch, Routes } from 'react-router-dom';
+// import {Button} from 'react-bootstrap'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import Headers from './Components/Hearders'
 
-import Home from './Components/Home';
+// import Home from './Components/Home';
 import CricketTeam from './Components/CricketTeam';
 import ContactUs from './Components/ContactUs';
 
